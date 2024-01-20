@@ -1,13 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-
-  a + a {
-    margin-left: 1rem;
-  }
-</style>
-
 <h1 align="center">Hi, I'm Sacha</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 
