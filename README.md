@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sacha</h1>
+<h1 align="center">Hi, I'm Sacha</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 
-- 🌱 I’m currently learning **Svelte**
+- I’m currently learning **Svelte**, deepening my **Elixir** skills, endlessly playing with **CSS**
 
-- 👨‍💻 All of my projects are available at [https://sachamasry.com](https://sachamasry.com)
+- A portfolio of my web design, video editing and other work are available at [https://sachamasry.com](https://sachamasry.com)
 
 - 💬 Ask me about **HTML, CSS, Apostrophe CMS, Elixir, Clojure(Script)**
 
