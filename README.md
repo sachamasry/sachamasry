@@ -19,13 +19,11 @@
 
 <h3 align="left">Programming languages & backend development</h3>
 <p align="left">
-  <a href="https://elixir-lang.org" title="Elixir language" target="_blank" rel="noreferrer"
-     style="text-decoration: none;">
+  <a href="https://elixir-lang.org" title="Elixir language" target="_blank" rel="noreferrer" style="text-decoration: none;padding:0.5rem;background:white;border-radius:0.75rem;">
     <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
   </a>
 
-  <a href="https://clojure.org/" title="Clojure and Clojurescript" target="_blank" rel="noreferrer"
-     style="margin-left:1rem;text-decoration:none;">
+  <a href="https://clojure.org/" title="Clojure and Clojurescript" target="_blank" rel="noreferrer" style="margin-left:1rem;text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="Clojure" width="40" height="40"/>
   </a>
 
