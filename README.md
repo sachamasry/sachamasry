@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sacha</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 
-- I’m currently learning **Svelte**, sharpening **Elixir** skills, endlessly playing with **CSS**
+- I’m currently learning **Svelte**, sharpening **Elixir** skills, deepening **UX** experience
 
 - A portfolio of my web design, video editing and other work are available at [https://sachamasry.com](https://sachamasry.com)
 
 - 💬 Ask me about **HTML, CSS, Apostrophe CMS, Elixir, Clojure(Script)**
 
-- 📫 How to reach me **sacha@sachamasry.com**
+- 📫 Reach me on **sacha@sachamasry.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
